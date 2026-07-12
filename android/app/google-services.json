@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32354488306",
+    "project_id": "skool-45a8d",
+    "storage_bucket": "skool-45a8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32354488306:android:b1ea64d310fe90e5a8a56b",
+        "android_client_info": {
+          "package_name": "com.example.skool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJb1AbZnJYgeyPu_XKXRbU24bzMkPvKE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32354488306:android:5d344e425ea92459a8a56b",
+        "android_client_info": {
+          "package_name": "com.example.skoolinq_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJb1AbZnJYgeyPu_XKXRbU24bzMkPvKE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
