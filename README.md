@@ -4,7 +4,7 @@ Skoolinq is a student-focused mobile application designed to help students explo
 
 🎥 Demo
 
-Watch the Skoolinq Demo Video
+Watch the Skoolinq Demo Video - https://drive.google.com/file/d/1phh2_o6zBKQM4_hzDQxbiMMZjr45S3Ro/view?usp=sharing
 
 🚀 Features
 
